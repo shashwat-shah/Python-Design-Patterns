@@ -7,3 +7,7 @@ Python Designs with turtle library
 - Design 2
 
 ![image](https://user-images.githubusercontent.com/69806791/176168792-ff0baa2c-bbff-48cd-a46d-27126deed62a.png)
+
+- Design 3
+
+![image](https://user-images.githubusercontent.com/69806791/176371304-0bdf2f24-5308-41b7-8afd-e29a35908f74.png)

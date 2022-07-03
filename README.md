@@ -19,3 +19,7 @@ Python Designs with turtle library
 - Design 5
 
 ![image](https://user-images.githubusercontent.com/69806791/176852530-623262f5-afaa-44e2-855e-386eadecbfef.png)
+
+- Design 6
+
+![image](https://user-images.githubusercontent.com/69806791/177050904-503133ec-36f4-46a3-bae8-0c1c418820fc.png)
